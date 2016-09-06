@@ -1,3 +1,4 @@
+#Builind a real life product with Arduino & Python
 # Xây dựng hệ thống tưới cây tự động với Arduino
 #Mục tiêu của dự án (HOW IT ALL STARTED)
 #Các chức năng của hệ thống (WHAT CAN WE DO)
